@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Amaan Tamboli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Amaan Tamboli </b><img src="img/giphy.webp" width="35"></h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=450&lines=Computer+Engineering+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+science+enthusiast+%E2%9C%8C%EF%B8%8F;Cloud+beginner+%E2%98%81%EF%B8%8F;Japanese+learner+%E2%9B%A9%EF%B8%8F" alt="Typing SVG" /></a>
@@ -7,24 +7,24 @@
 <br><br>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="img/line.gif"><br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="25"><b> **About Me**</b>
+## <img src="img/about_me.gif" width ="25"><b> **About Me**</b>
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="img/dev.gif" width = 250px></picture>
 
 - A passionate self-taught Data science enthusiast
 - Playing Rubik's cube at spare time
 - Currently learning AWS and GCP cloud services
 - Japanese learner
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1k3zMBgbFaO34AoSpCNOb3_ag97rHsz_v/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](AmaanT_resume.pdf)
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="img/line.gif"><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> **Skills**</b>
+## <img src="img/skill.gif" width ="25"><b> **Skills**</b>
 <br>
 
 <p align="center">
@@ -81,9 +81,9 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="img/line.gif"><br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"><b>**Let's Connect..!**</b>
+## <img src="img/handshake.gif" width ="40"><b>**Let's Connect..!**</b>
 <br>
 <br>
 <div align='left'>
@@ -98,7 +98,16 @@
 
 
 <br>
+	
 
+<li>
+<a href="https://www.instagram.com/amaan.tamboli54/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+</li>
+
+
+<br>
 <li>
 <a href="mailto:amaantamboli542@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
