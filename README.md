@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello World! <img src="img/giphy.webp" width="35"><br> I'm Amaan Tamboli </b></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Computer+Engineering+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+science+enthusiast+%E2%9C%8C%EF%B8%8F;Cloud+beginner+%E2%98%81%EF%B8%8F;Japanese+learner+%E2%9B%A9%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=600&lines=Computer+Engineering+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+science+enthusiast+%E2%9C%8C%EF%B8%8F;Cloud+beginner+%E2%98%81%EF%B8%8F;Japanese+learner+%E2%9B%A9%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 <br><br><br><br><br>
 
