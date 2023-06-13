@@ -4,12 +4,13 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=450&lines=Computer+Engineering+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+science+enthusiast+%E2%9C%8C%EF%B8%8F;Cloud+beginner+%E2%98%81%EF%B8%8F;Japanese+learner+%E2%9B%A9%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
-<br><br>
+<br><br><br><br><br>
 
-<br>
+
 <img src="img/line.gif"><br>
 
 ## <img src="img/about_me.gif" width ="25"><b> **About Me**</b>
+<br>
 
 
 <picture> <img align="right" src="img/dev.gif" width = 250px></picture>
@@ -20,7 +21,7 @@
 - Japanese learner
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](AmaanT_resume.pdf)
 
-<br><br>
+<br><br><br>
 
 <img src="img/line.gif"><br>
 
@@ -71,20 +72,15 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
-
-
-
-
 </p>
 
+<br>
 <br>
 <br>
 
 <img src="img/line.gif"><br>
 
 ## <img src="img/handshake.gif" width ="40"><b>**Let's Connect..!**</b>
-<br>
 <br>
 <div align='left'>
 
